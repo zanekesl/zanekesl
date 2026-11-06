@@ -7,5 +7,3 @@ I am currently studying electrical engineering at Texas Tech University.
 -Verilog
 
 ## Coming Soon:
-
--
